@@ -1,4 +1,4 @@
-### Hi there 👋
+My name is Sandeep Pawar. I am a Simulation and Data Analytics Engineer. You can connect with you on Twitter at @PawarBI. 
 
 <!--
 **pawarbi/pawarbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
