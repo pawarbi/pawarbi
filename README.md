@@ -1,4 +1,4 @@
-My name is Sandeep Pawar. I am a Simulation and Data Analytics Engineer. You can connect with you on Twitter at @PawarBI. 
+My name is Sandeep Pawar. I am a Data Science professional currently working at Humana. You can connect with me on Twitter at @PawarBI. 
 
 <!--
 **pawarbi/pawarbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
